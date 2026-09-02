@@ -27,7 +27,7 @@ An end-to-end Data Analytics project using **Python, SQL, and Power BI** to anal
 
 ![Churn Dashboard](dashboard/Churn_Dashboard.png)
 
-![Insights & Recommendations](dashboard/Insights_Recommendations.png)
+![Insights & Recommendations](dashboard/Insights&Recommendations.png)
 
 ## 💡 Recommendations
 
